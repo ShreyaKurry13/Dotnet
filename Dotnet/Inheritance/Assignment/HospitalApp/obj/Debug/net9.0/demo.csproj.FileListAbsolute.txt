@@ -1,0 +1,15 @@
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.sourcelink.json
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/bin/Debug/net9.0/demo
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/bin/Debug/net9.0/demo.deps.json
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/bin/Debug/net9.0/demo.runtimeconfig.json
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/bin/Debug/net9.0/demo.dll
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/bin/Debug/net9.0/demo.pdb
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.dll
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/refint/demo.dll
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.pdb
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/demo.genruntimeconfig.cache
+/home/cdac/CDAC/Dotnet/Inheritance/Assignment/HospitalApp/obj/Debug/net9.0/ref/demo.dll
