@@ -11,3 +11,4 @@ class Program
         System.Console.WriteLine("Inhouse Patient's bill = {0:000}",n.GetBill());
     }
 }
+
