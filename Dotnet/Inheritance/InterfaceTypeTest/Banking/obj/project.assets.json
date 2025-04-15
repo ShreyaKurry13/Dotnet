@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/cdac/.nuget/packages/": {}
+    "C:\\Users\\dac33\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cdac/CDAC/Dotnet/Inheritance/InterfaceTypeTest/Banking/Banking.csproj",
+      "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cdac\\CDAC\\Dotnet\\Inheritance\\InterfaceTypeTest\\Banking\\Banking.csproj",
       "projectName": "Banking",
-      "projectPath": "/home/cdac/CDAC/Dotnet/Inheritance/InterfaceTypeTest/Banking/Banking.csproj",
-      "packagesPath": "/home/cdac/.nuget/packages/",
-      "outputPath": "/home/cdac/CDAC/Dotnet/Inheritance/InterfaceTypeTest/Banking/obj/",
+      "projectPath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cdac\\CDAC\\Dotnet\\Inheritance\\InterfaceTypeTest\\Banking\\Banking.csproj",
+      "packagesPath": "C:\\Users\\dac33\\.nuget\\packages\\",
+      "outputPath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cdac\\CDAC\\Dotnet\\Inheritance\\InterfaceTypeTest\\Banking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/cdac/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\dac33\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/cdac/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

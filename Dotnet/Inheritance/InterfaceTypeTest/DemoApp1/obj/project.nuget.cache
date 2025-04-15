@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecsqdijkY2U=",
+  "dgSpecHash": "8pXPtUYkS2E=",
   "success": true,
-  "projectFilePath": "/home/cdac/CDAC/Dotnet/Inheritance/InterfaceTypeTest/DemoApp1/DemoApp.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cdac\\CDAC\\Dotnet\\Inheritance\\InterfaceTypeTest\\DemoApp1\\DemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
