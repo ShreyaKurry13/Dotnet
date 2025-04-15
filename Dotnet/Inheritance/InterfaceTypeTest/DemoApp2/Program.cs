@@ -4,7 +4,7 @@ namespace DemoApp;
 
 class Program
 {
-    class Auditor
+    class Auditor : IDisposable
     {
         public Auditor()
         {
@@ -28,12 +28,13 @@ class Program
 
     static void DoAuditing(string name, int count)
     {
-        var a = new Auditor();
-        if(count > 10)
-            a.Audit(name ,new Worker(count));
-        else
-            a.Audit(name, new Supervisor(count));
-        a.Dispose();
+        using(var a = new Auditor())
+        {
+            if(count > 10)
+                 a.Audit(name ,new Worker(count));
+            else
+                a.Audit(name, new Supervisor(count));
+        }
     }
 
     static void Main(string[] args)
@@ -49,5 +50,4 @@ class Program
             Console.WriteLine(ex.Message);
         }
     }
-
 }
