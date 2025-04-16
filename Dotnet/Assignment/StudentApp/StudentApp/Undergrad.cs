@@ -2,7 +2,6 @@ namespace StudentApp;
 
 public class Undergrad : Student
 {
-
     public Undergrad(string n, int age, string a) : base(n, age, a)
     {
     }

@@ -3,20 +3,21 @@ namespace DemoApp;
 
 class Program
 {
-    static T Select<T>(int index, T first, T second)
+    static string Select(int index, string first , string second)
     {
-        if((index % 2) == 1)
+        if((index %2) == 1)
             return first;
         return second;
     }
 
-    static T Select<T>(T first, T second) where T : IComparable<T>
+    static double Select(int index, double first , double second)
     {
-        if(first.CompareTo(second) > 0)
+        if((index %2) == 1)
             return first;
         return second;
     }
 
+   
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
@@ -34,13 +35,12 @@ class Program
         {
             string ss = Select("Tuesday", "Thursday");
             Console.WriteLine($"Selected string = {ss}");
-            
-            double sd = Select(23.4, 43.2);
-            Console.WriteLine($"Selected double = {sd}");
 
-            Interval si = Select(new Interval(4,30), new Interval(3,55));
+            double sd = Select(23.4, 43.2);
+            Console.WriteLine($"Selected double = {sd}");         
+               
+            Interval si = Select(new Interval(4, 30), new Interval(3, 20));
             Console.WriteLine($"Selected Interval = {si}");
         }
-       
     }
 }

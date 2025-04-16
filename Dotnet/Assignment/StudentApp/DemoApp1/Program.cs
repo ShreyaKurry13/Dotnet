@@ -1,5 +1,4 @@
-﻿
-using StudentApp;
+﻿using StudentApp;
 
 Student s1 = new Undergrad("Shreya", 22,"pune");
 double ugrade = 70.9;
