@@ -1,0 +1,12 @@
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.sourcelink.json
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/bin/Debug/net9.0/Student.deps.json
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/bin/Debug/net9.0/Student.dll
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/bin/Debug/net9.0/Student.pdb
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.dll
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/refint/Student.dll
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/Student.pdb
+/home/cdac/CDAC/Dotnet/Assignment/StudentApp/StudentApp/obj/Debug/net9.0/ref/Student.dll
