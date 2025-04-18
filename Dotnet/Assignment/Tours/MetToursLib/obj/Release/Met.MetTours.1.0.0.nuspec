@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Met.MetTours</id>
+    <version>1.0.0</version>
+    <authors>MetToursLib</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="728e59ddfac21665afdf0b73595506b19d17a4ce" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/bin/Release/net9.0/MetToursLib.dll" target="lib/net9.0/MetToursLib.dll" />
+  </files>
+</package>

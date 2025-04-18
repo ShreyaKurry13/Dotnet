@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/MetToursLib.csproj",
-      "projectName": "MetToursLib",
+      "projectName": "Met.MetTours",
       "projectPath": "/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/MetToursLib.csproj",
       "packagesPath": "/home/cdac/.nuget/packages/",
       "outputPath": "/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/",

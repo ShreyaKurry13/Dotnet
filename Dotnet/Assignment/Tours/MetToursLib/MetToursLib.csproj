@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
-    <PackageId>Met.Tours</PackageId>
+    <PackageId>Met.MetTours</PackageId>
     <Version>1.0.0</Version>
   </PropertyGroup>
 

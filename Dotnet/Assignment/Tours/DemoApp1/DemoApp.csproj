@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Met.Tours" Version="1.0.0" />
+    <PackageReference Include="Met.MetTours" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
