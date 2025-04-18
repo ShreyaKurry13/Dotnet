@@ -1,0 +1,12 @@
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/bin/Release/net9.0/MetToursLib.deps.json
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/bin/Release/net9.0/MetToursLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/bin/Release/net9.0/MetToursLib.pdb
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.sourcelink.json
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/refint/MetToursLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/MetToursLib.pdb
+/home/cdac/CDAC/Dotnet/Assignment/Tours/MetToursLib/obj/Release/net9.0/ref/MetToursLib.dll

@@ -1,0 +1,15 @@
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.sourcelink.json
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/bin/Debug/net9.0/DemoApp
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/bin/Debug/net9.0/DemoApp.deps.json
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/bin/Debug/net9.0/DemoApp.runtimeconfig.json
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/bin/Debug/net9.0/DemoApp.dll
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/bin/Debug/net9.0/DemoApp.pdb
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.dll
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/refint/DemoApp.dll
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.pdb
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/DemoApp.genruntimeconfig.cache
+/home/cdac/CDAC/Dotnet/Generics/TypeParamTest/DemoApp2/obj/Debug/net9.0/ref/DemoApp.dll

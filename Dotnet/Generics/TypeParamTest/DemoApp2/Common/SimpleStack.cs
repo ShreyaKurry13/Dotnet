@@ -1,6 +1,5 @@
 namespace Common;
-
-public class SimpleStack<E>
+public class SimpleStack<E> : IStackReader<E> ,IStackWriter<E>
 {
     class Node
     {
@@ -22,10 +21,8 @@ public class SimpleStack<E>
         return temp.element;
     }
 
-    public bool isEmpty()
+    public bool Empty()
     {
         return top is null;
     }
-
-    
 }
