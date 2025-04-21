@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "fw5h+PDXbmk=",
+  "success": false,
+  "projectFilePath": "/home/cdac/CDAC/Dotnet/Assignment/TourNew/DemoApp1/DemoApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency ../MetTours/MetTourLib.csproj does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "../MetTours/MetTourLib.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v9.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package ../MetTours/MetTourLib.csproj. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "../MetTours/MetTourLib.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

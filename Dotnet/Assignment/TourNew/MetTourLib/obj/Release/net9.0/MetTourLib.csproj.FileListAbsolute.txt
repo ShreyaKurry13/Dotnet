@@ -1,0 +1,12 @@
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/bin/Release/net9.0/MetTourLib.deps.json
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/bin/Release/net9.0/MetTourLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/bin/Release/net9.0/MetTourLib.pdb
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.sourcelink.json
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/refint/MetTourLib.dll
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/MetTourLib.pdb
+/home/cdac/CDAC/Dotnet/Assignment/TourNew/MetTourLib/obj/Release/net9.0/ref/MetTourLib.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetToursLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728e59ddfac21665afdf0b73595506b19d17a4ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3299c58e9a65896e1136ccefb42ac668da9aacb")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetToursLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetToursLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
