@@ -1,0 +1,42 @@
+namespace DemoApp;
+
+using Common;
+
+class Program
+{
+        static IEnumerable<Interval> RandomIntervals(int count)
+    {
+        for(int i = 0; i < count; ++i)
+        {
+            int t = Random.Shared.Next(100, 500);
+            yield return new Interval(0, t);
+        }
+    }
+
+    static void Main(string[] args)
+    {
+        SimpleStack<string> a = new SimpleStack<string>(); //closed generic type
+        a.Push("Monday");
+        a.Push("Tuesday");
+        a.Push("Wednesday");
+        a.Push("Thursday");
+        a.Push("Friday");
+        for(var i = a.GetEnumerator(); i.MoveNext();)
+            Console.WriteLine(i.Current);
+        Console.WriteLine("-----------------");    
+        a[2] = "Holiday"; //using indexer
+        while(!a.Empty())
+            Console.WriteLine(a.Pop());
+        Console.WriteLine("-----------------");  
+        SimpleStack<double> b = new SimpleStack<double>();
+        b.Push(34.21);  
+        b.Push(58.62);
+        b.Push(75.13);
+        b.Push(27.54);
+        foreach(double d in b)
+            Console.WriteLine(d);
+        Console.WriteLine("-----------------"); 
+        foreach(Interval v in RandomIntervals(3))
+            Console.WriteLine(v); 
+    }
+}
