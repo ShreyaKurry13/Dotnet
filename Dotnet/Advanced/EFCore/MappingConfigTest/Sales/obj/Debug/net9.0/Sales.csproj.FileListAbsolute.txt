@@ -1,0 +1,12 @@
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/bin/Debug/net9.0/Sales.deps.json
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/bin/Debug/net9.0/Sales.dll
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/bin/Debug/net9.0/Sales.pdb
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.AssemblyInfoInputs.cache
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.AssemblyInfo.cs
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.csproj.CoreCompileInputs.cache
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.sourcelink.json
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.dll
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/refint/Sales.dll
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/Sales.pdb
+/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/Sales/obj/Debug/net9.0/ref/Sales.dll
