@@ -3,28 +3,22 @@ using Sales;
 
 namespace DemoApp.Shopping.Data;
 
-
 public class ShopDbContext(DbContextOptions options) : DbContext(options)
 {
    public DbSet<Product> Products {get; set;}
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        .modelBuilder.Entity<Product>()
+         modelBuilder.Entity<Product>()
             .ToTable("ProductInfo")
-            .Property(p => p.Id)
+            .Property(p=> p.Id)
             .HasColumnName("ProductNo");
-         .modelBuilder.Entity<>()
-            .ToTable("ProductInfo")
-            .Property(p => p.Id)
-            .HasColumnName("ProductNo");
-         .modelBuilder.Entity<Product>()
-            .ToTable("ProductInfo")
-            .Property(p => p.Id)
+         modelBuilder.Entity<Order>()
+            .ToTable("Orderdetail")
+            .Property(p=> p.Id)
+            .HasColumnName("OrderNo");
+         modelBuilder.Entity<Order>()
+            .Property(p=> p.ProductId)
             .HasColumnName("ProductNo");
     }
 }
-
-
-
-

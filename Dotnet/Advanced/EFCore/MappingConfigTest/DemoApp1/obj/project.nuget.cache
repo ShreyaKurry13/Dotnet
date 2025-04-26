@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GvNtXN0N4pY=",
+  "dgSpecHash": "8ahB4kWLJmg=",
   "success": true,
-  "projectFilePath": "/home/cdac/CDAC/Dotnet/Advanced/Ado.Net/MappingConfigTest/DemoApp1/DemoApp.csproj",
+  "projectFilePath": "/home/cdac/CDAC/Dotnet/Advanced/EFCore/MappingConfigTest/DemoApp1/DemoApp.csproj",
   "expectedPackageFiles": [
     "/home/cdac/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/home/cdac/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

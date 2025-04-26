@@ -8,6 +8,13 @@ if(args.Length == 0)
     foreach(var customer in shop.Customers)
         Console.WriteLine("{0}\t {1}",customer.Id,customer.Credit);
 }
+else if(args[0] == "orders")
+{
+    foreach (var data in shop.Orders)
+    {
+         Console.WriteLine("{0}\t{1}\t{2:yyyy:MM:dd}",data.ProductId,data.Quantity,data.OrderDate);
+    }
+}
 else 
 {
     var customer = shop.Customers
@@ -25,3 +32,5 @@ else
         Console.WriteLine("No such Customer!!");
 
 }
+
+

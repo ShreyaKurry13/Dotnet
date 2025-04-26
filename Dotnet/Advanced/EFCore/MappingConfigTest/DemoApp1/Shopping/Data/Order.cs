@@ -6,15 +6,14 @@ namespace DemoApp.Shopping.Data;
 public class Order
 {
     [Column("OrderNo")]
-    public int Id{get; set;}
+    public int Id { get; set; }
 
-    public DateOnly OrderDate{get; set;}
+    public DateTime OrderDate { get; set; }
 
-    public int CustomerId{get; set;}
+    public string CustomerId { get; set; }
 
     [Column("ProductNo")]
-    public int ProductId{get; set;}
+    public int ProductId { get; set; }
 
-    public int Quantity{get; set;}
-    
+    public int Quantity { get; set; }
 }

@@ -6,9 +6,9 @@ namespace DemoApp.Shopping.Data;
 public class Customer
 {
     [Column("UserName")]
-    public string Id{set; get;}
+    public string Id { get; set; }
 
-    public decimal Credit{set; get;}
+    public decimal Credit { get; set; }
 
-    public ICollection<Order> Orders{set; get;} = [];
+    public ICollection<Order> Orders { get; set; } = [];
 }
