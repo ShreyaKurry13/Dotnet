@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pgW/KrFL8E=",
+  "dgSpecHash": "BFRU+PEFhtk=",
   "success": true,
-  "projectFilePath": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/DemoApp.csproj",
+  "projectFilePath": "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\DemoApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
