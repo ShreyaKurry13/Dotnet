@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\DemoApp.csproj": {}
+    "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/DemoApp.csproj": {}
   },
   "projects": {
-    "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\DemoApp.csproj": {
+    "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/DemoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\DemoApp.csproj",
+        "projectUniqueName": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/DemoApp.csproj",
         "projectName": "DemoApp",
-        "projectPath": "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\DemoApp.csproj",
-        "packagesPath": "C:\\Users\\shrey\\.nuget\\packages\\",
-        "outputPath": "D:\\NEW DOTNET\\Dotnet\\Dotnet\\Advanced\\AspNetCoreMvc\\ControllerTest\\DemoApp1\\obj\\",
+        "projectPath": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/DemoApp.csproj",
+        "packagesPath": "/home/cdac/.nuget/packages/",
+        "outputPath": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/ControllerTest/DemoApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/cdac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/cdac/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
