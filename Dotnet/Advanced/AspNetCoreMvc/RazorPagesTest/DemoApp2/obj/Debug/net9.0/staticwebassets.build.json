@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "rm/kkjBn+hI/vrE4CR3dJoHOVWXx8bxFNuvr/3Q+HIA=",
+  "Source": "DemoApp",
+  "BasePath": "_content/DemoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoApp/wwwroot",
+      "Source": "DemoApp",
+      "ContentRoot": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/",
+      "BasePath": "_content/DemoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (1).jpg",
+      "SourceId": "DemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/",
+      "BasePath": "_content/DemoApp",
+      "RelativePath": "images/images (1)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0s6rvy1555",
+      "Integrity": "EPI2gtw2BH0iZ3u2LPjlnhLhAZn6Q9wuQgoRKUZjMYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/images (1).jpg"
+    },
+    {
+      "Identity": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (2).jpg",
+      "SourceId": "DemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/",
+      "BasePath": "_content/DemoApp",
+      "RelativePath": "images/images (2)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3qisnwh7h3",
+      "Integrity": "NeuYCogkDAfFmv6T6Y7AUWasrt1aWFjQfPYdvXYhIhw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/images (2).jpg"
+    },
+    {
+      "Identity": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images.jpg",
+      "SourceId": "DemoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/",
+      "BasePath": "_content/DemoApp",
+      "RelativePath": "images/images#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zrtqscfw6r",
+      "Integrity": "P1Usjlv62TFv0Mf8Q9bri0IlaGSvWKao/88V8YVs3/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/images.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/images (1).0s6rvy1555.jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPI2gtw2BH0iZ3u2LPjlnhLhAZn6Q9wuQgoRKUZjMYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0s6rvy1555"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images (1).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPI2gtw2BH0iZ3u2LPjlnhLhAZn6Q9wuQgoRKUZjMYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/images (1).jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EPI2gtw2BH0iZ3u2LPjlnhLhAZn6Q9wuQgoRKUZjMYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:17:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EPI2gtw2BH0iZ3u2LPjlnhLhAZn6Q9wuQgoRKUZjMYs="
+        }
+      ]
+    },
+    {
+      "Route": "images/images (2).3qisnwh7h3.jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (2).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeuYCogkDAfFmv6T6Y7AUWasrt1aWFjQfPYdvXYhIhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:31:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3qisnwh7h3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images (2).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NeuYCogkDAfFmv6T6Y7AUWasrt1aWFjQfPYdvXYhIhw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images (2).jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images (2).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NeuYCogkDAfFmv6T6Y7AUWasrt1aWFjQfPYdvXYhIhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:31:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NeuYCogkDAfFmv6T6Y7AUWasrt1aWFjQfPYdvXYhIhw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P1Usjlv62TFv0Mf8Q9bri0IlaGSvWKao/88V8YVs3/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:13:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P1Usjlv62TFv0Mf8Q9bri0IlaGSvWKao/88V8YVs3/o="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.zrtqscfw6r.jpg",
+      "AssetFile": "/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp2/wwwroot/images/images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P1Usjlv62TFv0Mf8Q9bri0IlaGSvWKao/88V8YVs3/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 08:13:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zrtqscfw6r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P1Usjlv62TFv0Mf8Q9bri0IlaGSvWKao/88V8YVs3/o="
+        }
+      ]
+    }
+  ]
+}

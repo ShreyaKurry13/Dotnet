@@ -23,3 +23,7 @@ build_property.EnableCodeStyleSeverity =
 [/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp1/Pages/Clock.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xvY2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[/home/cdac/CDAC/Dotnet/Advanced/AspNetCoreMvc/RazorPagesTest/DemoApp1/Pages/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
